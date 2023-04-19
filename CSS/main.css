@@ -1,6 +1,9 @@
 body {
     background: #e0e5ec;
   }
+a {
+    color: white;
+}
   h1 {
     position: relative;
     text-align: center;
